@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jonassyon
+- 👀 I’m interested in analytics, databases and data processing
